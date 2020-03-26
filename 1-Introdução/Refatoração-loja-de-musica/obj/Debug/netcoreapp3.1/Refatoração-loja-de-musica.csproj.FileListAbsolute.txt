@@ -1,0 +1,13 @@
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\bin\Debug\netcoreapp3.1\Refatoração-loja-de-musica.exe
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\bin\Debug\netcoreapp3.1\Refatoração-loja-de-musica.deps.json
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\bin\Debug\netcoreapp3.1\Refatoração-loja-de-musica.runtimeconfig.json
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\bin\Debug\netcoreapp3.1\Refatoração-loja-de-musica.runtimeconfig.dev.json
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\bin\Debug\netcoreapp3.1\Refatoração-loja-de-musica.dll
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\bin\Debug\netcoreapp3.1\Refatoração-loja-de-musica.pdb
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\obj\Debug\netcoreapp3.1\Refatoração-loja-de-musica.csprojAssemblyReference.cache
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\obj\Debug\netcoreapp3.1\Refatoração-loja-de-musica.csproj.CoreCompileInputs.cache
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\obj\Debug\netcoreapp3.1\Refatoração-loja-de-musica.AssemblyInfoInputs.cache
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\obj\Debug\netcoreapp3.1\Refatoração-loja-de-musica.AssemblyInfo.cs
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\obj\Debug\netcoreapp3.1\Refatoração-loja-de-musica.dll
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\obj\Debug\netcoreapp3.1\Refatoração-loja-de-musica.pdb
+C:\Users\andre.postiga\Desktop\A&POO Studos\1-Introdução\Refatoração-loja-de-musica\obj\Debug\netcoreapp3.1\Refatoração-loja-de-musica.genruntimeconfig.cache
