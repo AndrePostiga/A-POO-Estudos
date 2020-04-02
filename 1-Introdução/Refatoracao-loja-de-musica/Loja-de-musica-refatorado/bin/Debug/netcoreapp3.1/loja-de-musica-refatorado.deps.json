@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "loja-de-musica-refatorado/1.0.0": {
+        "runtime": {
+          "loja-de-musica-refatorado.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "loja-de-musica-refatorado/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

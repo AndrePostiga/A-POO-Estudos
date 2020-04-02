@@ -10,19 +10,13 @@ namespace Refatoracao_loja_de_musica
             Inventory inventory = new Inventory();
             InitializeInventory(inventory);
 
-
             Guitar whatErinLikes = new Guitar("123ABC456CDF", 2000.0, "Fender", "Stratosfera", "SuperStrato", "Jacarandá", "Rosewood");
             Guitar guitar = inventory.Search(whatErinLikes);
+
             if (guitar != null)
-            {
-                Console.WriteLine("Erin, talvez você goste desta: ");
-                Console.WriteLine(guitar.ToString());
-            }
+                Console.WriteLine($"Erin, talvez você goste desta: \n {guitar.ToString()}");
             else
-            {
                 Console.WriteLine("Desculpe Erin, não temos nada pra você");
-            }
-            // Console.WriteLine(guitarra.ToString());
         }
 
         private static void InitializeInventory(Inventory inventory)

@@ -43,33 +43,23 @@ namespace Refatoracao_loja_de_musica
                 //ignorar o numero de serie e preço, não são relevantes pra pesquisa
                 string builder = searchGuitar.builder;
                 if (builder != null && !builder.Equals("") && !builder.Equals(guitar.builder))
-                {
-                    continue;
-                }
+                    continue;               
 
                 string model = searchGuitar.model;
                 if (model != null && !model.Equals("") && !model.Equals(guitar.model))
-                {
-                    continue;
-                }
+                    continue;                
 
                 string type = searchGuitar.type;
                 if (type != null && !type.Equals("") && !type.Equals(guitar.type))
-                {
-                    continue;
-                }
+                    continue;                
 
                 string backWood = searchGuitar.backWood;
                 if (backWood != null && !backWood.Equals("") && !backWood.Equals(guitar.backWood))
-                {
                     continue;
-                }
 
                 string topWood = searchGuitar.topWood;
                 if (topWood != null && !topWood.Equals("") && !topWood.Equals(guitar.topWood))
-                {
                     continue;
-                }
 
                 return guitar;
             }

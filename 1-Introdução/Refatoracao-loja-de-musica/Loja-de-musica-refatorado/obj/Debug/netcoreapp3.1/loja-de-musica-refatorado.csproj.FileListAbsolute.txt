@@ -1,0 +1,11 @@
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\bin\Debug\netcoreapp3.1\loja-de-musica-refatorado.exe
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\bin\Debug\netcoreapp3.1\loja-de-musica-refatorado.deps.json
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\bin\Debug\netcoreapp3.1\loja-de-musica-refatorado.runtimeconfig.json
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\bin\Debug\netcoreapp3.1\loja-de-musica-refatorado.runtimeconfig.dev.json
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\bin\Debug\netcoreapp3.1\loja-de-musica-refatorado.dll
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\bin\Debug\netcoreapp3.1\loja-de-musica-refatorado.pdb
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\obj\Debug\netcoreapp3.1\loja-de-musica-refatorado.AssemblyInfoInputs.cache
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\obj\Debug\netcoreapp3.1\loja-de-musica-refatorado.AssemblyInfo.cs
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\obj\Debug\netcoreapp3.1\loja-de-musica-refatorado.dll
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\obj\Debug\netcoreapp3.1\loja-de-musica-refatorado.pdb
+D:\Desktop\A-POO-Estudos\1-Introdução\Refatoracao-loja-de-musica\loja-de-musica-refatorado\obj\Debug\netcoreapp3.1\loja-de-musica-refatorado.csprojAssemblyReference.cache

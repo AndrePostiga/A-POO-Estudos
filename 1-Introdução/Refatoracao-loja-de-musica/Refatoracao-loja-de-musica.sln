@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refatoracao-loja-de-musica", "Refatoracao-loja-de-musica\Refatoracao-loja-de-musica.csproj", "{1CC8373F-9309-4402-9042-9541DD463A4E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "loja-de-musica-v1", "Refatoracao-loja-de-musica\loja-de-musica-v1.csproj", "{1CC8373F-9309-4402-9042-9541DD463A4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loja-de-musica-refatorado", "loja-de-musica-refatorado\loja-de-musica-refatorado.csproj", "{57967F2A-14E8-4E37-92FC-D4476F8B8000}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1CC8373F-9309-4402-9042-9541DD463A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CC8373F-9309-4402-9042-9541DD463A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CC8373F-9309-4402-9042-9541DD463A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57967F2A-14E8-4E37-92FC-D4476F8B8000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57967F2A-14E8-4E37-92FC-D4476F8B8000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57967F2A-14E8-4E37-92FC-D4476F8B8000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57967F2A-14E8-4E37-92FC-D4476F8B8000}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

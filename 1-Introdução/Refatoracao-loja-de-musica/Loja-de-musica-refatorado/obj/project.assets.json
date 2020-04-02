@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\loja-de-musica-v1.csproj",
-      "projectName": "loja-de-musica-v1",
-      "projectPath": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\loja-de-musica-v1.csproj",
+      "projectUniqueName": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\loja-de-musica-refatorado\\loja-de-musica-refatorado.csproj",
+      "projectName": "loja-de-musica-refatorado",
+      "projectPath": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\loja-de-musica-refatorado\\loja-de-musica-refatorado.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\obj\\",
+      "outputPath": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\loja-de-musica-refatorado\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica.csproj": {}
+    "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\loja-de-musica-v1.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica.csproj": {
+    "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\loja-de-musica-v1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica.csproj",
-        "projectName": "Refatoracao-loja-de-musica",
-        "projectPath": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica.csproj",
+        "projectUniqueName": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\loja-de-musica-v1.csproj",
+        "projectName": "loja-de-musica-v1",
+        "projectPath": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\loja-de-musica-v1.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
         "outputPath": "D:\\Desktop\\A-POO-Estudos\\1-Introdução\\Refatoracao-loja-de-musica\\Refatoracao-loja-de-musica\\obj\\",
         "projectStyle": "PackageReference",
